@@ -1,1 +1,1 @@
-1/(1 + x0^-4) + 1/(1 + x1^-4)
+add(sub(div(mul(add(X5, X15), sub(-0.670, X11)), sub(X22, add(X23, X16))), sub(sub(-0.670, X11), add(X4, X0))), add(X5, X15))
